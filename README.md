@@ -5,11 +5,12 @@ This is my personal notes and preparation space for future coding interviews, in
 This repository is a collection of Python coding problems, solutions, Jupyter Notebooks (.ipynb), and class notes (PDFs and PNGs) to help me prepare for coding interviews and document my learning from classes. It’s organized by days and topics, focusing on key data structures and algorithms.
 
 ## Repository Structure
-- (Day1) Level test, Stack/: Jupyter Notebooks (.ipynb) with basic level test problems and stack exercises, plus related notes (PDFs, PNGs).
-- (Day2) Stack, Queue, Deque, NonLinear Structure/: .ipynb files covering stacks, queues, deques, and nonlinear structures, with accompanying notes.
-- (Day3) Basic Data Structure, List(array)/: Notebook files and notes on basic data structures, focusing on lists (arrays).
-LICENSE: MIT License file.
-README.md: This file.
+- (Day1) Level test, Stack
+   - basic level test problems, stack exercises, and related notes 
+- (Day2) Stack, Queue, Deque, NonLinear Structure
+   - notes covering stacks, queues, deques, and nonlinear structures
+- (Day3) Basic Data Structure, List(array)
+   - notes on basic data structures, lists(arrays)
 
 ## Prerequisites
 - Python 3.x
