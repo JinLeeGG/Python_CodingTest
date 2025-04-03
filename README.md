@@ -14,12 +14,12 @@ This repository is a collection of Python coding problems, solutions, Jupyter No
 
 ## Prerequisites
 - Python 3.x
-- Jupyter Notebook (e.g., via Anaconda or pip install notebook)
+- Jupyter Notebook (e.g., via Anaconda, pip install notebook or google colab)
 - A PDF viewer (for notes in PDF format)
 - An image viewer (for PNG files)
 
 ## Usage
-- Jupyter Notebooks (.ipynb): Open these in Jupyter Notebook to run code interactively, view outputs, and explore solutions.
+- Jupyter Notebooks (.ipynb): Open these in Jupyter Notebook or google colab to run code interactively, view outputs, and explore solutions.
 - PDF Notes: Contain class notes, diagrams, or explanations related to the topics.
 - PNG Files: Screenshots or images supplementing the notes or problems.
 
