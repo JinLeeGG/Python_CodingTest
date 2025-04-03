@@ -11,8 +11,8 @@ This repository is a collection of Python coding problems, solutions, Jupyter No
    - notes covering stacks, queues, deques, and nonlinear structures basics (tree, graph)
 - (Day3) Basic Data Structure, List(array)
    - notes on basic data structures, lists(arrays)
-- (Day4) Tree 
-   - notes on tree, binary search tree, Skewed binary tree
+- (Day4) Tree, binary tree 
+   - notes on tree, traversal of binary Tree, binary search tree, Skewed binary tree
   
 ## Prerequisites
 - Python 3.x
