@@ -28,8 +28,8 @@ This repository is a collection of Python coding problems, solutions, Jupyter No
 - Queue: FIFO data structure basics.
 - Deque: Double-ended queue operations.
 - List: Array-based operations and manipulations.
-- Tree: Hierarchical data structure concepts (to be added).
-- Graph: Graph theory and traversal basics (to be added).
+- Tree: Hierarchical data structure concepts.
+- Graph: Graph theory and traversal basics.
 
 ## Contributing
 This is a private repository for personal use. No external contributions are accepted at this time.
