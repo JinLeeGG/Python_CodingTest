@@ -8,10 +8,12 @@ This repository is a collection of Python coding problems, solutions, Jupyter No
 - (Day1) Level test, Stack
    - basic level test problems, stack exercises, and related notes 
 - (Day2) Stack, Queue, Deque, NonLinear Structure
-   - notes covering stacks, queues, deques, and nonlinear structures
+   - notes covering stacks, queues, deques, and nonlinear structures basics (tree, graph)
 - (Day3) Basic Data Structure, List(array)
    - notes on basic data structures, lists(arrays)
-
+- (Day4) Tree 
+   - notes on tree, binary search tree, Skewed binary tree
+  
 ## Prerequisites
 - Python 3.x
 - Jupyter Notebook (e.g., via Anaconda, pip install notebook or google colab)
