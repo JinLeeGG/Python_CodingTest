@@ -12,4 +12,4 @@ Stack ADT:
 - https://colab.research.google.com/drive/1TJ-JqPJgqfjfbHNGIrTbBHzu4Ivd1_vX
 
 Stack Example Problems:
--https://colab.research.google.com/drive/1Y-SM1GWw0iiXFv5tBvxXqQZD1fcVg6R7
+- https://colab.research.google.com/drive/1Y-SM1GWw0iiXFv5tBvxXqQZD1fcVg6R7
