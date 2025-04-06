@@ -17,6 +17,8 @@ This repository is a collection of Python coding problems, solutions, Jupyter No
    - notes on DFS, BFS
 - (Day6) Greed, Dijkstra's algorithms
    - notes on Greed algorithms: Kruskal, Prim
+   - notes on Dijkstra's algorithms
+   - touch of Bellman–Ford algorithm
 
 ## Prerequisites
 - Python 3.x
