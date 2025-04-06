@@ -13,7 +13,11 @@ This repository is a collection of Python coding problems, solutions, Jupyter No
    - notes on basic data structures, lists(arrays)
 - (Day4) Tree, binary tree 
    - notes on tree, traversal of binary Tree, binary search tree, Skewed binary tree
-  
+- (Day5) DFS, BFS 
+   - notes on DFS, BFS
+- (Day6) Greed algorithms
+   - notes on Greed algorithms: Kruskal, Prim
+
 ## Prerequisites
 - Python 3.x
 - Jupyter Notebook (e.g., via Anaconda, pip install notebook or google colab)
