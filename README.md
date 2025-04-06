@@ -15,7 +15,7 @@ This repository is a collection of Python coding problems, solutions, Jupyter No
    - notes on tree, traversal of binary Tree, binary search tree, Skewed binary tree
 - (Day5) DFS, BFS 
    - notes on DFS, BFS
-- (Day6) Greed algorithms
+- (Day6) Greed, Dijkstra's algorithms
    - notes on Greed algorithms: Kruskal, Prim
 
 ## Prerequisites
