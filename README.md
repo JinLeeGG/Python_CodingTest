@@ -15,11 +15,15 @@ This repository is a collection of Python coding problems, solutions, Jupyter No
    - notes on tree, traversal of binary Tree, binary search tree, Skewed binary tree
 - **(Day5) DFS, BFS** 
    - notes on DFS, BFS
-- **(Day6) Greed, Dijkstra's algorithms**
+- **(Day6) Greed, Dijkstra's algorithm**
    - notes on Greed algorithms: Kruskal, Prim
    - notes on Dijkstra's algorithms
    - touch of Bellman–Ford algorithm
-
+- **(Day7) BackTracking(Subset)**
+   - notes on Backtracking (subset) problems
+- **(Day8) BackTracking(Subset), Sorting algorithm**
+   - notes on Backtracking (subset) problems
+   - notes on Sorting Algorithm
 ## Prerequisites
 - Python 3.x
 - Jupyter Notebook (e.g., via Anaconda, pip install notebook or google colab)
