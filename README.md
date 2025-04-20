@@ -26,7 +26,9 @@ This repository is a collection of Python coding problems, solutions, Jupyter No
    - notes on Sorting Algorithm
 - **(Day9) Heap**
    - notes on Heap, heap example problems
-
+- **(Day10) Coding Problem Solving Practice - Financial Companies**
+   - Problems solving, notes
+  
 ## Prerequisites
 - Python 3.x
 - Jupyter Notebook (e.g., via Anaconda, pip install notebook or google colab)
