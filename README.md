@@ -24,6 +24,9 @@ This repository is a collection of Python coding problems, solutions, Jupyter No
 - **(Day8) BackTracking(Subset), Sorting algorithm**
    - notes on Backtracking (subset) problems
    - notes on Sorting Algorithm
+- **(Day9) Heap**
+   - notes on Heap, heap example problems
+
 ## Prerequisites
 - Python 3.x
 - Jupyter Notebook (e.g., via Anaconda, pip install notebook or google colab)
