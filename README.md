@@ -24,9 +24,9 @@ This repository is a collection of Python coding problems, solutions, Jupyter No
 - **(Day8) BackTracking(Subset), Sorting algorithm**
    - notes on Backtracking (subset) problems
    - notes on Sorting Algorithm
-- **(Day9) Heap**
+- **(Day9) Heap (Need to Review)**
    - notes on Heap, heap example problems
-- **(Day10) Coding Problem Solving Practice - Financial Companies**
+- **(Day10) Coding Problem Solving Practice - Financial Companies (Need to Review)**
    - Problems solving, notes
   
 ## Prerequisites
