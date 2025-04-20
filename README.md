@@ -6,7 +6,8 @@ This repository is a collection of Python coding problems, solutions, Jupyter No
 
 ## Repository Structure
 - **(Day1) Level test, Stack**
-   - basic level test problems, stack exercises, and related notes 
+   - basic level test problems, stack exercises, and related notes
+      
 - **(Day2) Stack, Queue, Deque, NonLinear Structure**
    - notes covering stacks, queues, deques, and nonlinear structures basics (tree, graph)
 - **(Day3) Basic Data Structure, List(array)**
