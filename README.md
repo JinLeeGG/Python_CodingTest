@@ -27,7 +27,9 @@ This repository is a collection of Python coding problems, solutions, Jupyter No
    - notes on Sorting Algorithm
 - **(Day9) Heap (Need to Review)**
    - notes on Heap, heap example problems
-- **(Day10) Coding Problem Solving Practice - Financial Companies (Need to Review)**
+- **(Day10) Coding Problem Solving Practice - Financial Companies**
+   - Problems solving, notes
+- **(Day11) Hash, HashMap, HashTable, Hash function**
    - Problems solving, notes
   
 ## Prerequisites
