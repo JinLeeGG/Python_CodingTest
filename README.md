@@ -15,26 +15,26 @@ This repository is a collection of Python coding problems, solutions, Jupyter No
 - **(Day4) Tree, binary tree** 
    - notes on tree, traversal of binary Tree, binary search tree, Skewed binary tree
 - **(Day5) DFS, BFS** 
-   - notes on DFS, BFS
+   - Notes on DFS, BFS
 - **(Day6) Greed, Dijkstra's algorithm**
-   - notes on Greed algorithms: Kruskal, Prim
-   - notes on Dijkstra's algorithms
+   - Notes on Greedy algorithms: Kruskal, Prim
+   - Notes on Dijkstra's algorithms
    - touch of Bellman–Ford algorithm
 - **(Day7) BackTracking(Subset)**
-   - notes on Backtracking (subset) problems
+   - Notes on Backtracking (subset) problems
 - **(Day8) BackTracking(Subset), Sorting algorithm**
-   - notes on Backtracking (subset) problems
-   - notes on Sorting Algorithm
+   - Notes on Backtracking (subset) problems
+   - Notes on Sorting Algorithm
 - **(Day9) Heap (Need to Review)**
-   - notes on Heap, heap example problems
+   - Notes on Heap, heap example problems
 - **(Day10) Coding Problem Solving Practice - Financial Companies**
-   - Problems solving, notes
+   - Problem solving, notes
 - **(Day11) Hash, HashMap, HashTable, Hash function**
-   - Problems solving, notes
+   - Notes on Hash, HashTable, Hash Functions, example problems
   
 ## Prerequisites
 - Python 3.x
-- Jupyter Notebook (e.g., via Anaconda, pip install notebook or google colab)
+- Jupyter Notebook (e.g., via Anaconda, pip install notebook or Google Colab)
 - A PDF viewer (for notes in PDF format)
 - An image viewer (for PNG files)
 
@@ -42,14 +42,3 @@ This repository is a collection of Python coding problems, solutions, Jupyter No
 - Jupyter Notebooks (.ipynb): Open these in Jupyter Notebook or google colab to run code interactively, view outputs, and explore solutions.
 - PDF Notes: Contain class notes, diagrams, or explanations related to the topics.
 - PNG Files: Screenshots or images supplementing the notes or problems.
-
-## Topics Covered
-- Stack: LIFO data structure operations and applications.
-- Queue: FIFO data structure basics.
-- Deque: Double-ended queue operations.
-- List: Array-based operations and manipulations.
-- Tree: Hierarchical data structure concepts.
-- Graph: Graph theory and traversal basics.
-
-## Contributing
-This is a private repository for personal use. No external contributions are accepted at this time.
