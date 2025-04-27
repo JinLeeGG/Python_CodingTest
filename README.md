@@ -31,7 +31,9 @@ This repository is a collection of Python coding problems, solutions, Jupyter No
    - Problem solving, notes
 - **(Day11) Hash, HashMap, HashTable, Hash function**
    - Notes on Hash, HashTable, Hash Functions, example problems
-  
+- **(Day12) Breadth First Search (BFS)**
+   - Notes on BFS, example problems
+
 ## Prerequisites
 - Python 3.x
 - Jupyter Notebook (e.g., via Anaconda, pip install notebook or Google Colab)
