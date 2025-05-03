@@ -33,6 +33,8 @@ This repository is a collection of Python coding problems, solutions, Jupyter No
    - Notes on Hash, HashTable, Hash Functions, example problems
 - **(Day12) Breadth First Search (BFS)**
    - Notes on BFS, example problems
+- **(Day13) DFS/BFS, Dijkstra's algorithm**
+   - DFS/BFS, Dijkstra's algorithm problems solve
 
 ## Prerequisites
 - Python 3.x
