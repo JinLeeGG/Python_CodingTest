@@ -35,6 +35,8 @@ This repository is a collection of Python coding problems, solutions, Jupyter No
    - Notes on BFS, example problems
 - **(Day13) DFS/BFS, Dijkstra's algorithm**
    - DFS/BFS, Dijkstra's algorithm problems solve
+- **(Day14) Minimum Spanning Tree Problems**
+   - MST Problems solving using different algorithms
 
 ## Prerequisites
 - Python 3.x
