@@ -37,6 +37,9 @@ This repository is a collection of Python coding problems, solutions, Jupyter No
    - DFS/BFS, Dijkstra's algorithm problems solve
 - **(Day14) Minimum Spanning Tree Problems**
    - MST Problems solving using different algorithms
+- **(Day15) Greed Algorithm Problem Pattern and Solving**
+   - Greed Algorithm Problem solving
+
 
 ## Prerequisites
 - Python 3.x
