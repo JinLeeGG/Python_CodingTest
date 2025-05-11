@@ -39,6 +39,8 @@ This repository is a collection of Python coding problems, solutions, Jupyter No
    - MST Problems solving using different algorithms
 - **(Day15) Greed Algorithm Problem Pattern and Solving**
    - Greed Algorithm Problem solving
+- **(Day16) Kakao, Samsung Coding Test Problems Solving**
+   - Korea Big Tech Coding Problem Solving
 
 
 ## Prerequisites
